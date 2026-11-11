@@ -10,7 +10,7 @@ I build and run AI agent systems in my own time. I manage them like a product: e
 |---|---|
 | [ai-workflows](https://github.com/DadyByte/ai-workflows) | How I run AI agents as a system: a nightly job that files what my AI sessions learned, search over my own notes with a benchmark that keeps it honest, model choice by evaluation, and multi-agent review. Written as case studies, with the numbers and the failures. |
 | [claude-skills](https://github.com/DadyByte/claude-skills) | Skills and subagents I designed for Claude Code. Claude Code wrote most of the text under my direction. Several keep the dated rules I added after a run failed. |
-| [apollo-paints](https://github.com/DadyByte/apollo-paints) | A live catalog site for an industrial paint maker, [apollopaintsglobal.com](https://apollopaintsglobal.com). Designed in Google Stitch, rebuilt as a React single-page app, served from Cloudflare Workers. |
+| [apollo-paints](https://github.com/DadyByte/apollo-paints) | A live catalog site for an industrial paint maker, [apollopaintsglobal.com](https://apollopaintsglobal.com). First screens from Google Stitch, the React app generated in Google AI Studio and adapted with Claude, served from Cloudflare Workers. |
 
 ## How I work with AI
 
