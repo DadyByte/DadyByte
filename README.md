@@ -25,7 +25,7 @@ I build and run AI agent systems in my own time. I manage them like a product: e
 
 - Product Manager at Microsoft since 2021. Platform and AI products.
 - MBA from IIM Calcutta. B.Tech in Computer Engineering from DTU.
-- I write on [Medium](https://medium.com/@shivamkapoor1607).
+- I write on [Medium](https://medium.com/@shivamkpr).
 - [LinkedIn](https://www.linkedin.com/in/shivamkapoor1607)
 
 <sub>These are personal projects, built on my own time with my own tools. Views are my own.</sub>
